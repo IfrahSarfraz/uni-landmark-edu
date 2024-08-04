@@ -37,7 +37,8 @@ You can view the live demo of this template at [your-live-demo-link](https://ifr
 
 ## Website Video
 
-Watch a video demonstration of the website here: [Your Video Link](https://example.com/your-video)
+Watch a video demonstration of the website here: [Your Video Link](https://github.com/user-attachments/assets/06961e34-ecfe-49a7-94ef-bbb970d3acb3
+)
 
 ## Contributing
 
