@@ -35,10 +35,12 @@ This project is a responsive website template designed for educational instituti
 
 You can view the live demo of this template at [your-live-demo-link](https://ifrahsarfraz.github.io/uni-landmark-edu/).
 
-## Website Video
+## Video
 
-Watch a video demonstration of the website here: [Your Video Link](https://github.com/user-attachments/assets/06961e34-ecfe-49a7-94ef-bbb970d3acb3
-)
+Watch the video demonstration of the website:
+
+[Website Video](https://github.com/user-attachments/assets/06961e34-ecfe-49a7-94ef-bbb970d3acb3)
+
 
 ## Contributing
 
